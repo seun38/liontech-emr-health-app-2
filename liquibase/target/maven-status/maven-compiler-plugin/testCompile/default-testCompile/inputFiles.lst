@@ -1,0 +1,4 @@
+/home/ubuntu/liontech-emr/liontech-emr-health-app-2/liquibase/src/test/java/org/openmrs/liquibase/SchemaOnlyTunerTest.java
+/home/ubuntu/liontech-emr/liontech-emr-health-app-2/liquibase/src/test/java/org/openmrs/liquibase/AbstractSnapshotTunerTest.java
+/home/ubuntu/liontech-emr/liontech-emr-health-app-2/liquibase/src/test/java/org/openmrs/liquibase/CoreDataTunerTest.java
+/home/ubuntu/liontech-emr/liontech-emr-health-app-2/liquibase/src/test/java/org/openmrs/liquibase/MainTest.java

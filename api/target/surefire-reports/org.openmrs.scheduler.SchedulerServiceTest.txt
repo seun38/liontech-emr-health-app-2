@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.openmrs.scheduler.SchedulerServiceTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0.005 s - in org.openmrs.scheduler.SchedulerServiceTest

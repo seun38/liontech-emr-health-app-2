@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.openmrs.api.EncounterServiceTest
+-------------------------------------------------------------------------------
+Tests run: 149, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 28.672 s - in org.openmrs.api.EncounterServiceTest

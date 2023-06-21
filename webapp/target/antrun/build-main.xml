@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <unzip src="src/main/resources/liquibase-demo-data.zip" dest="/home/ubuntu/liontech-emr/liontech-emr-health-app-2/webapp/target/classes" />
+  </target>
+</project>

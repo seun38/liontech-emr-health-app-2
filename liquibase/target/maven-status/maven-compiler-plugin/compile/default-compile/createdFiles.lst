@@ -1,0 +1,4 @@
+org/openmrs/liquibase/SchemaOnlyTuner.class
+org/openmrs/liquibase/Main.class
+org/openmrs/liquibase/AbstractSnapshotTuner.class
+org/openmrs/liquibase/CoreDataTuner.class
